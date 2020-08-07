@@ -1,0 +1,11 @@
+{
+  "name": "budhi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "budhi",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "validator": "^13.1.1"
+  }
+}
